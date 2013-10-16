@@ -1,7 +1,7 @@
 /**
- *  Módulo headerControls
+ *  Módulo DashboardView
  *
- *  Renderiza a headerControls automaticamente quando é instaciado
+ *  
  *
  */
 
