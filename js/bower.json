@@ -1,0 +1,29 @@
+{
+  "name": "todos",
+  "version": "0.0.1",
+  "authors": [
+    "Fernando <powerpuffsk8@gmail.com>"
+  ],
+  "description": "Testando novas tecnologias",
+  "main": "app.js",
+  "keywords": [
+    "backbone",
+    "require"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "backbone": "~1.0.0",
+    "underscore": "~1.5.2",
+    "requirejs": "~2.1.8",
+    "requirejs-text": "latest"
+  }
+}
