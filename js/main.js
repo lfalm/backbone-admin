@@ -2,14 +2,11 @@
 requirejs.config({
     baseUrl: 'js/App',
     paths: {
-        // lib
+        // libs
         jquery: '../lib/jquery.min',
         backbone: '../lib/backbone-min',
         underscore: '../lib/underscore-min',
         text: '../lib/text',
-        // appplication modules
-        app: '../app',
-        router: '../router',
         // templates
         tpl: 'templates'
     },
